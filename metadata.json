@@ -1,0 +1,6 @@
+{
+  "name": "Shah G Guest House",
+  "description": "Premium luxury stay at Gulberg Residencia, Islamabad. Fully furnished family-friendly rooms with 24/7 service, secure parking, and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
